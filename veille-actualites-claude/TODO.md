@@ -86,3 +86,11 @@
 - [x] configurerTrigger() et supprimerTrigger()
 - [x] README complet avec instructions d'installation
 - [x] Estimation des coûts API
+
+### v2.0.0 — Améliorations (2026-03-31)
+- [x] Score de sentiment par article (😊 POSITIF / 😐 NEUTRE / ⚠️ NÉGATIF)
+- [x] Multi-destinataires — EMAIL_DESTINATAIRES accepte string ou tableau
+- [x] Trigger lundi→vendredi — WEEKEND_ACTIF = false dans CONFIG
+- [x] Stockage Google Sheets — sauvegarderDansSheets() avec création auto de l'onglet
+- [x] Fallback RSS — bascule automatique si NewsAPI dépasse le quota (426/429)
+- [x] Légende des badges dans l'email (importance + sentiment)
