@@ -19,7 +19,7 @@ Chaque module est autonome, prêt à déployer, et conçu pour réduire les tâc
 
 | Attribut | Détail |
 |---|---|
-| Dossier | `veille-actualites-claude/` |
+| Dossier | `veille-actualites-/` |
 | Plateforme | Google Apps Script |
 | Sources | NewsAPI |
 | IA | Claude Sonnet (Anthropic) |
